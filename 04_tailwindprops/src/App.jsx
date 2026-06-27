@@ -8,7 +8,7 @@ function App() {
     <>  
       <Card username = "Nilesh"/> 
       <Card someObject = {{"name" : "Nilesh"}}/> 
-      <Card/> 
+      <Card /> 
     </>
   )
 }
